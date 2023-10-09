@@ -2,8 +2,8 @@
 - 👀 I’m interested in English , programming
 - 🌱 I’m currently Backend developer
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me Telegram Id : Nima048
-- Email Adress: nimamahdizade57@gmail.com
+- 📫 How to reach me Telegram Id : Nima048 and Email Adress: nimamahdizade57@gmail.com
+
 
 Backend developer.
 <!---
