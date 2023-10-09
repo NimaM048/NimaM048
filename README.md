@@ -3,6 +3,7 @@
 - 🌱 I’m currently Backend developer
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me Telegram Id : Nima048
+- Email Adress: nimamahdizade57@gmail.com
 
 Backend developer.
 <!---
