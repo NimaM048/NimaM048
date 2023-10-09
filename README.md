@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nima Mahdizade
 - 👀 I’m interested in English , programming
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently Backend developer
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me Telegram Id : Nima048
 
